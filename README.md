@@ -13,11 +13,11 @@ File Names:
 Running script:
 1. Start script
 2. Script reads a configuration file projectini that contains the following:
-        a. Name of output file (projectoutput)
+      a. Name of output file (projectoutput)
         
-        b. Filter options pertaining to logs
+      b. Filter options pertaining to logs
         
-        c. Constants pertaining to actions of the script
+      c. Constants pertaining to actions of the script
         
 3. Menu appears with instructions:
 
@@ -38,10 +38,10 @@ Press Enter to exit
 2. prints to screen system logs from /var/log/  based on the criteria specified in the projectini file
 
 3. Overwrites the previous file (file path/name specified in projectini file)
-    	#Name of computer
+    #Name of computer
         
-    	#Date and time (formatted)
+    #Date and time (formatted)
         
-   	#Results from option 1
+    #Results from option 1
         
-    	#Results from option 2
+    #Results from option 2
