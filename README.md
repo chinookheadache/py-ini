@@ -10,6 +10,7 @@ File Names:
 - py-ini
 
 
+
 Running script:
 1. Start script
 2. Script reads a configuration file projectini that contains the following:
@@ -23,6 +24,7 @@ Running script:
 3. Menu appears with instructions:
 
 
+
 Selection---
 
 1. System accounts
@@ -32,6 +34,7 @@ Selection---
 3. Generate Report
 
 Press Enter to exit
+
 
 
 1. prints to screen all accounts and their group associations sorted alphabetically by account name
