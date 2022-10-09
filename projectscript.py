@@ -1,5 +1,4 @@
 """
-CPRG260 Final Project
 Reading INI file to customize administative returns
 Nov 26 2021
 by Zac Fawcett
