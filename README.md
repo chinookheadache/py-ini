@@ -14,8 +14,11 @@ Running script:
 1. Start script
 2. Script reads a configuration file projectini that contains the following:
         a. Name of output file (projectoutput)
+        
         b. Filter options pertaining to logs
+        
         c. Constants pertaining to actions of the script
+        
 3. Menu appears with instructions:
 
 
@@ -36,6 +39,9 @@ Press Enter to exit
 
 3. Overwrites the previous file (file path/name specified in projectini file)
     	#Name of computer
+        
     	#Date and time (formatted)
+        
    	#Results from option 1
+        
     	#Results from option 2
