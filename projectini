@@ -1,0 +1,14 @@
+[BASIC]
+outFile=projectoutput
+
+[FILTER_ACCOUNTS]
+sortAccountsReverse=False
+sortAccountsCriteria=None
+linesOfAccountsData=All
+
+[FILTER_LOGS]
+sortLogsReverse=True
+logTimeFrom= Dec 10 12:00:00
+logTimeTo= Dec 10 13:00:00
+logCriteria=CRON
+
