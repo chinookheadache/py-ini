@@ -7,7 +7,7 @@ The config (ini) file is read when the script is run. The config file can be cus
 File Names:
 - projectini
 - projectoutput
-- projectscript
+- py-ini
 
 
 Running script:
